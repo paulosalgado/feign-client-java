@@ -3,4 +3,6 @@
   "group": "stable",
   "dist": "trusty",
   "os": "linux",
+  before_install:
+    - chmod +x gradlew
 }
