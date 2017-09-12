@@ -3,5 +3,4 @@
   "group": "stable",
   "dist": "trusty",
   "os": "linux",
-  "before_script": "chmod +x gradlew"
 }
