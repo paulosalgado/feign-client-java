@@ -1,8 +1,4 @@
-{
-  "language": "java",
-  "group": "stable",
-  "dist": "trusty",
-  "os": "linux",
-  before_install:
-    - chmod +x gradlew
-}
+language: java
+
+before_install:
+ - chmod +x gradlew
